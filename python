@@ -1,0 +1,20 @@
+print("hello world")
+#Arithmatic operators
+print(5+5)
+print(7-4)
+print(3*4)
+print(6/3)
+print(6**4)
+print(1//0)
+print(3%2)
+#assignment operators
+a=5
+b=6
+print(a+b)
+a=7
+b=5
+print(a-b)
+age=20
+x=6
+print(20%3)
+
